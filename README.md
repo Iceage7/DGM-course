@@ -1,2 +1,2 @@
 # DGM-course
--HW3-3 Perisan Speech to text.
+-HW3-3 Persian Speech to Text.
